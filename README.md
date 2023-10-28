@@ -1,6 +1,4 @@
-# An Exhibition of a Hunger Artist
-
-Here is the blog of WHY: [https://einhungerkuenstler.github.io](https://einhungerkuenstler.github.io)
+# A Homepage of a challenge seeker
 
 ## Contents
 
