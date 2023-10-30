@@ -1,52 +1,9 @@
-title: A Homepage of a challenge seeker #Your awesome title
-email: annabellee123456@outlook.com
-description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
-baseurl:  # the subpath of the site
-url: https://github.com/howardzhg/howardzhg.github.io # the base hostname & protocol for your site
-
-permalink: /:year-:month/:title
-timezone: GMT+1
-
-favicon: /assets/img/favicon.ico
-
-google_analytics: #UA—XXXXXXXX-X
-disqus_shortname: #disqus shortname
-cusdis:
-    app_id: #your cusdis app_id
-
-user:
-  name: Hongguang Zhang(张泓广)
-  pic: /assets/img/profile.png
-  picAlt: "A Homepage of a challenge seeker"
-  job: Bachelor of Science in Mathematics and Applied Mathematics
-  aboutme: true # comment this out if you don't need the 'about' page.
-
-exclude:
-  - README.md
-  - LICENSE
-  - github
-
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      comment: true   
-
-collections:
-  additional_pages:
-    output: true
-
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-markdown: kramdown 
-
-# Filtering Content
-show_drafts: null
-limit_posts: 0
-future:      false
-unpublished: false
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
