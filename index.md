@@ -114,9 +114,9 @@ Above all, I am skilled at mathematical modeling, data analysis, mathematical so
     - Reported on various charity activities of the Love Association, including event coverage, photography, and writing news articles for WeChat promotion.
 
 # HONORS AND AWARDS
+* International 1st Prize (TOP 0.88%) in China Undergraduate Mathematical Contest in Modeling (CUMCM) (almost 110,000 participants) (11/2017)
 * Outstanding Undergraduate Thesis (Design), TOP 3% (06/2019)
 * Outstanding Graduate of Hainan University, TOP 3% (06/2019)
-* International 1st Prize (TOP 0.88%) in China Undergraduate Mathematical Contest in Modeling (CUMCM) (almost 110,000 participants) (11/2017)
 * Third-class Comprehensive Scholarship for the Academic Years 2015-2016, 2016-2017, and 2017-2018
 
 # SKILLS & SPECIALITY
