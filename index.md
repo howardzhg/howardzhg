@@ -6,16 +6,18 @@ layout: default
 
 # About Me
 
-I am a Bachelor of Science in Mathematics and Applied Mathematics. Driven by a strong desire for data science and statistics lore and further academic training, I am actively applying for **PhD** in **data science** or **statistics** programs in 2024 Fall. 
+Driven by a strong desire for data science and statistics lore and further academic training, I am actively applying for **PhD** in **data science** or **statistics** programs in 2024 Fall. 
 
-I have over 3 years working experience as an assistant accountant, which included:
+I have over 3-year working experiences as an assistant accountant from 2019 to 2023, which included:
 1. formulate annual budget;
 2. monthly financial statements; 
 3. data analysis and summary, such as revenue, audience rating, attendance rate and so on. 
 
-Meanwhile, because of my outstanding leadership and writing skill, I served as Assistant Director of promotional videos and documentaries, assisting in script writing and post-production for 20 documentary and promotional films, in addition to fulfilling my responsibilities as an accountant. 
+Meanwhile, I served as Assistant Director of promotional videos and documentaries assisting in script writing and post-production for 20 documentary and promotional films because of my outstanding leadership and writing skill. 
 
-In 2019, I graduted as a **Outstanding Graduate** (Top 10%) from Hainan University, which is the best unviersity in Hainan, China. This is not only because of my excellent grade, but also because I am a distinguished class monitor from 2015 to 2019. A team I leaded also won **National 1st Prize** in China Undergraduate Mathematical Contest in Modeling (**CUMCM**)(TOP 0.88%) in 2017. 
+In 2019, graduting with a great honor of **Outstanding Graduate** (**Top 3% in School of Science**), I received a Bachelor of Science in Mathematics and Applied Mathematics from Hainan University, the best one in Hainan, China. My undergraduate thesis was on "A handwritten digit recognition algorithm based on spiking neural network", which was successfully chosen as **Outstanding Undergraduate Thesis (Design) in Hainan University**(**TOP 3.9%**).
+
+I leaded a team that won **National 1st Prize** in China Undergraduate Mathematical Contest in Modeling (**CUMCM**)(**TOP 0.88%**) in 2017. I was also a trustable class monitor throughout college.
 
 Thus, I have been well trained in both mathematics and computer programming at undergraduate, being skilled at mathematical modeling, data analysis, mathematical software, and several programming languages, such as Matlab, Lingo, SPSS, SQL Server, R, C++, and Python.
 
