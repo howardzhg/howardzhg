@@ -6,7 +6,7 @@ layout: default
 
 # About Me
 
-Driven by a strong desire for data science and statistics lore and further academic training, I am actively applying for **PhD** in **data science** or **statistics** programs in 2024 Fall. 
+Driven by a strong desire for data science and statistics lore and further academic training, I am actively applying for **PhD** in **data science**, **statistics**, and **any other related** programs in 2024 Fall. 
 
 I have over 3-year working experiences as an assistant accountant from 2019 to 2023, which included:
 1. formulate annual budget;
