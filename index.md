@@ -51,7 +51,7 @@ Above all, I am skilled at mathematical modeling, data analysis, mathematical so
       - _Overseas Chinese Affairs During COVID 19_
       - _"Cherish Life and Stay Away from Danger"for juvenile_
       - _Intangible Cultural Heritage of Hainan Province_
-      - _Series about 8 Hospitals in Hainan Province_
+      - _Series of 8 Hospitals in Hainan Province_
       - 13 documentary and promotional films unlisted
 
 # RESEARCH EXPERIENCE
