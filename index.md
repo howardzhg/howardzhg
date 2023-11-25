@@ -15,7 +15,7 @@ I have over 3-year working experiences as an assistant accountant from 2019 to 2
 
 Meanwhile, I served as Assistant Director of promotional videos and documentaries assisting in script writing and post-production for 20 documentary and promotional films because of my outstanding leadership and writing skill. 
 
-In 2019, graduating with a great honor of **Outstanding Graduate** (**Top 3% in School of Science**), I received a Bachelor of Science in Mathematics and Applied Mathematics from Hainan University, the best one in Hainan Province, China. My undergraduate thesis was on "A handwritten digit recognition algorithm based on spiking neural network", which was successfully chosen as **Outstanding Undergraduate Thesis (Design) in Hainan University**(**TOP 3%**).
+In 2019, graduating with a great honor of **Summa Cum Laude Graduate** (**Top 3% in School of Science**), I received a Bachelor of Science in Mathematics and Applied Mathematics from Hainan University, the best one in Hainan Province, China. My undergraduate thesis was on "A handwritten digit recognition algorithm based on spiking neural network", which was successfully chosen as **Outstanding Undergraduate Thesis (Design) in Hainan University**(**TOP 3%**).
 
 I won **International 1st Prize** (**TOP 0.88%**) in China Undergraduate Mathematical Contest in Modeling (**CUMCM**) in 2017 (almost 110,000 participants from Australia, Singapore and China).
 
@@ -24,9 +24,11 @@ Above all, I am skilled at mathematical modeling, data analysis, mathematical so
 # EDUCATION
 
 - **Hainan University** 
-  - Bachelor of Science (Outstanding Graduate and Thesis) in Mathematics and Applied Mathematics, 2019
-  - GPA: 3.4/4.0 (WES)
+  - Bachelor of Science (Summa Cum Laude Graduate and Outstanding Thesis) in Mathematics and Applied Mathematics, 2019
+  - Cumulative GPA: 3.4/4.0 (WES) 
+  - Last 60 Credits GPA: 3.6/4.0 (WES)
   - Core Courses
+    - Course Design of Probability Theory and Mathematical Statistics II (95/100)
     - Data Analysis(88/100)
     - Principle and technology of database(90/100)
     - Numerical analysis(93/100)
@@ -43,7 +45,7 @@ Above all, I am skilled at mathematical modeling, data analysis, mathematical so
   - Position: Assistant Accountant (08/2019 - 01/2023)
     - Assisted in formulating the company's annual budget, regularly tracked and analyzed budget utilization, and produced quarterly budget tracking reports
     - Prepared various financial statements, performance accounting materials, and vouchers, including transfer payment receipts, work content records, salary disbursement sheets, and recorded company fund
-  - Position: Assistant Produce Director in promotional videos and documentaries (08/2019 - 01/2023)
+  - Position: Assistant Producer Director in promotional videos and documentaries (08/2019 - 01/2023)
     - served as Assistant Director, assisting in script writing and post-production for 20 documentary and promotional films, such as:
       - _Fiftieth Anniversary Promotional Film of Dongfang Third Primary School_
       - _Special Report about Sanya Center for Disease Control and Prevention_
@@ -155,7 +157,7 @@ Above all, I am skilled at mathematical modeling, data analysis, mathematical so
 
 # HONORS AND AWARDS
 * Employee of the Year Award, Hainan Dingyue Culture media Co., Ltd. (2020, 2021 and 2022)
-* Outstanding Graduate of Hainan University, TOP 3%, Hainan University (06/2019)
+* Summa Cum Laude Graduate for Class of 2019 of Hainan University, TOP 3%, Hainan University (06/2019)
 * Outstanding Undergraduate Thesis (Design), TOP 3%, Hainan University (06/2019)
 * International 1st Prize (TOP 0.88%) in China Undergraduate Mathematical Contest in Modeling (CUMCM) (almost 110,000 participants) (11/2017)
 * Third-class Comprehensive Scholarship for the Academic Years (2015-2016, 2016-2017, and 2017-2018)
